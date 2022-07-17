@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
-title: El Rincón del Sánchez
+
+site:
+  url: https://elrincondelsanchez.com
