@@ -1,2 +1,2 @@
 # El Rincón del Sánchez
-GitHub Page
+Organization GitHub Page
