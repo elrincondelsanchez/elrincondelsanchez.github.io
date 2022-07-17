@@ -7,5 +7,6 @@ description: Awesome Development Projects
 
 github:
   owner_url: https://github.com/isaacsancheza
-  owner_name: isaacsancheza
-  is_project_page: true
+  owner_username: isaacsancheza
+  organization_url: https://github.com/elrincondelsanchez
+  organization_username: elrincondelsanchez
